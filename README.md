@@ -21,8 +21,12 @@ Author: Masaki Morimoto ([Keio University](https://kflab.jp/ja/))
 
 This repository contains
 
-- CNN-MLP_model_with_scalar-input.py
-- CNN-AE_model_with_scalar_input.py
+- Generating API
+  - main.m
+  - F_intensity.m
+  - F_make_API.m
+  - RK3.m
+  - UVINTPL.m
 
 
 For citations, please use the reference below:
