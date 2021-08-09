@@ -6,8 +6,6 @@ In this repostiry, sample codes for;
 1. generating artificial particle images (API) from numerical velocity data and
 2. construction of autoencoder-like convolutional neural network
 
- 
-:-------------------------:|
 ![alt text](https://github.com//Masaki-Morimoto/ML-PIV/blob/images/fig02_overview.png?raw=true)
 
 <div style="text-align: center;">Overview of the machine learning based experimental flow data estimation. 
