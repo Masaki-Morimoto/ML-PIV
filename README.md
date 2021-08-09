@@ -8,6 +8,6 @@ In this repostiry, sample codes for;
 
 AE-like CNN
 :-------------------------:
-![alt text](https://github.com//Masaki-Morimoto/CNN-MLP_and_CNN-AE-network-structure-with-supplemental-scalar-inputs/blob/images/fig3_CNN-MLP.png?raw=true)
+![alt text](https://github.com//Masaki-Morimoto/ML-PIV/blob/images/fig02_overview.png?raw=true)
 
 <div style="text-align: center;">A CNN-MLP and CNN autoeoncoder with supplemental scalar values utilized in this study.</div>
