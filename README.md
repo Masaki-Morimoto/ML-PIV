@@ -11,7 +11,7 @@ In this repostiry, sample codes for;
 <div style="text-align: center;">Overview of the machine learning based experimental flow data estimation. 
 (a) Preparation of training data set.
 (b) Schematic of the API.
-(c) Training of machine learning model $\cal{F}$.</div>
+(c) Training of machine learning model.</div>
 
 ## Information
 
