@@ -6,8 +6,34 @@ In this repostiry, sample codes for;
 1. generating artificial particle images from numerical velocity data and
 2. construction of autoencoder-like convolutional neural network
 
-AE-like CNN for 
+AE-like CNN for ML-PIV
 :-------------------------:|
 ![alt text](https://github.com//Masaki-Morimoto/ML-PIV/blob/images/fig02_overview.png?raw=true)
 
 <div style="text-align: center;">A CNN-MLP and CNN autoeoncoder with supplemental scalar values utilized in this study.</div>
+
+## Information
+
+Author: Masaki Morimoto ([Keio University](https://kflab.jp/ja/))
+
+This repository contains
+
+- CNN-MLP_model_with_scalar-input.py
+- CNN-AE_model_with_scalar_input.py
+
+
+For citations, please use the reference below:
+
+Masaki Morimoto, Kai Fukami, Kai Zhang, Aditya, G. Nair, and Koji Fukagata "Convolutional neural networks for fluid flow analysis: toward effective metamodeling and low-dimensionalization," arXiv:2101.02535 (2020).
+
+Authors provide no guarantees for this code.
+Use as-is and for academic research use only; no commercial use allowed without permission.
+The code is written for educational clarity and not for speed.
+
+## Requirements
+- Python 3.X
+- keras
+- tensorflow
+- numpy
+- pandas
+- cv2
