@@ -28,7 +28,7 @@ This repository contains
 - Constructing a machine learning model (wirtten in python)
   - AE-like_CNN_for_ML-PIV.py
 
-For citations, please refer you to the information below:
+For citations, please refer to the information below:
 
 Masaki Morimoto, Kai Fukami, and Koji Fukagata "Experimental velocity data estimation for imperfect particle images using machine learning," Phys. Fluids, accepted, 2021.
 
