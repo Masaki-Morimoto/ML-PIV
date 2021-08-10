@@ -2,7 +2,7 @@
 
 This repository contains source codes utilized in a part of "Experimental velocity data estimation for imperfect particle images using machine learning," Phys. Fluids (2021).
 
-In this repostiry, sample codes for;
+In this repostiry, we provide sample codes for;
 1. generating artificial particle images (API) from numerical velocity data and
 2. construction of autoencoder-like convolutional neural network
 
@@ -15,7 +15,7 @@ In this repostiry, sample codes for;
 
 ## Information
 
-Author: Masaki Morimoto ([Keio University](https://kflab.jp/ja/))
+Author: Masaki Morimoto (masaki.morimoto[at]kflab.jp, [Keio University](https://kflab.jp/ja/))
 
 This repository contains
 
@@ -28,7 +28,7 @@ This repository contains
 - Constructing a machine learning model (wirtten in python)
   - AE-like_CNN_for_ML-PIV.py
 
-For citations, please use the reference below:
+For citations, please refer you to the information below:
 
 Masaki Morimoto, Kai Fukami, and Koji Fukagata "Experimental velocity data estimation for imperfect particle images using machine learning," Phys. Fluids, accepted, 2021.
 
