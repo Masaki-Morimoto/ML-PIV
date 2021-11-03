@@ -1,6 +1,6 @@
 ## Sample codes for ML-PIV
 
-This repository contains source codes utilized in a part of "Experimental velocity data estimation for imperfect particle images using machine learning," Phys. Fluids (2021).
+This repository contains source codes utilized in a part of "Experimental velocity data estimation for imperfect particle images using machine learning," [Phys. Fluids 33, 087121 (2021)](https://doi.org/10.1063/5.0060760)
 
 In this repostiry, we provide sample codes for;
 1. generating artificial particle images (API) from numerical velocity data and
@@ -19,7 +19,7 @@ Author: Masaki Morimoto (masaki.morimoto[at]kflab.jp, [Keio University](https://
 
 This repository contains
 
-- Generating API (wirtten in MTALB)
+- Generating API (wirtten in MATLAB)
   - m01_main.m
   - m02_F_intensity.m
   - m03_F_make_API.m
@@ -30,7 +30,7 @@ This repository contains
 
 For citations, please refer to the information below:
 
-Masaki Morimoto, Kai Fukami, and Koji Fukagata "Experimental velocity data estimation for imperfect particle images using machine learning," Phys. Fluids, accepted, 2021.
+Masaki Morimoto, Kai Fukami, and Koji Fukagata "Experimental velocity data estimation for imperfect particle images using machine learning," Phys. Fluids, 33, 087121, 2021.
 
 Authors provide no guarantees for this code.
 Use as-is and for academic research use only; no commercial use allowed without permission.
